@@ -35,28 +35,28 @@ Project is created with:
 If the above depedencies are already install on your system, skip to [Run this project](#run-this-project).  
 If not installed, proceed with the installation steps below.
 
-#### Installations
+### Installations
 
-###### Install the requirements on a virtual environment
+#### Install the requirements on a virtual environment
 Follow the instructions in [this Github gist](https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d) for your system. 
 
 Or do as follows:
-###### Install pip
+#### Install pip
 $`sudo apt-get install python3-pip`
 
-###### Install virtualenv 
+#### Install virtualenv 
 $`sudo pip3 install virtualenv 
 `
-###### Create a virtual environment
+#### Create a virtual environment
 $`virtualenv -p python3.6 url_env `
 
 Once `virtualenv` is installed, activate it using   
 $`source url_env/bin/activate`
 
-###### Install pathlib module
+#### Install pathlib module
 $`pip install pathlib`
 
-###### Installing lz4
+#### Installing lz4
 $`pip install lz4`
 
 
