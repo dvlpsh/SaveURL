@@ -2,12 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub contributors](https://img.shields.io/github/contributors/dvlpsh/SaveURL)](#contributors)
-<!--[![python-3.6.8](https://img.shields.io/badge/python-3.6-blue)](#dependencies)
-[![tweepy-3.8.0](https://img.shields.io/badge/tweepy-3.8.0-blue)](#dependencies)
-[![selenium-3.141.0](https://img.shields.io/badge/selenium-3.141.0-blue)](#dependencies)-->
+[![python-3.6.8](https://img.shields.io/badge/python-3.6-blue)](#dependencies)
+[![pathlib](https://img.shields.io/badge/-pathlib-blue)](#dependencies)
+[![lz4](https://img.shields.io/badge/-lz4-blue)](#dependencies)
 
 
-<!--![Screenshot](twitbot.png)-->
+![Screenshot](saveurls.jpg)
  
 ## Table of contents
 * [Description](#description)
