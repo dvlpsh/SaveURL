@@ -90,31 +90,5 @@ def main(): #driver code
 			print('Invalid choice. Try again.\n\n')
 	
 	
-	
-	#get_urls() #should return a list of urls, write a separate function accepting this list and printing it to a file
-	#append_urls_to_file()
-	#open_urls_in_browser('links-18-2-2020.txt')
-	
-	
 if __name__ == "__main__":
 	main()
-
-	
-			
-			
-#DONE
-# create a new file named links-todays-date.txt
-# If such a file already exists, create new file named links-todays-date-1.txt
-# provision for opening all specified links in a saved file in a web browser window.
-
-
-#Todo
-
-# modularity, put everything into functions and arrange this as a class
-# put this up on github and create a perfect documwntation, and update resume
-# Research about the various functions and libraries used here.
-# put this in place of video downloader and update video downloaer to audio downloader on the resume.
-#
-#
-# Save this file to the desktop as defailt location, or to the location provided, if location is invalid, prompt for correct location, create provision for being able to change the default location
-
