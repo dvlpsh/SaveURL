@@ -19,7 +19,7 @@
 * [Feature Requests](#feature-requests)
 * [Contribute to this Project](#contribute-to-this-project)
 * [Contributors](#contributors)
-* [Contact](#contact)
+<!--* [Contact](#contact)-->
 * [License](#license)
 
 ## Description
@@ -100,8 +100,8 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 ## Contributors
 This project is developed and maintained by [@dvlpsh](https://github.com/dvlpsh).
 
-## Contact
-Reach me at my email: [dvlpsh21@gmail.com](mailto:dvlpsh21@gmail.com).
+<!--## Contact
+Reach me at my email: [dvlpsh21@gmail.com](mailto:dvlpsh21@gmail.com).-->
 
 ## License
 This project uses the [MIT LICENSE](LICENSE).
